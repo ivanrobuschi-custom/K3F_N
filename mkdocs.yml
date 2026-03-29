@@ -58,13 +58,13 @@ markdown_extensions:
       permalink: true
 nav:
 - Home: index.md
-- MANUALE UTENTE K3-N RT:
-  - Introduzione: manuale-utente-k3-n-rt/index.md
-  - Introduzione e Descrizione Generale: manuale-utente-k3-n-rt/introduzione-e-descrizione-generale.md
-  - Installazione e Funzionamento Base: manuale-utente-k3-n-rt/installazione-e-funzionamento-base.md
-  - Manutenzione e Specifiche Tecniche: manuale-utente-k3-n-rt/manutenzione-e-specifiche-tecniche.md
-  - Documenti Fiscali e Report: manuale-utente-k3-n-rt/documenti-fiscali-e-report.md
-  - Programmazione e Configurazione Avanzata: manuale-utente-k3-n-rt/programmazione-e-configurazione-avanzata.md
-  - Operazioni di Vendita e Pagamento: manuale-utente-k3-n-rt/operazioni-di-vendita-e-pagamento.md
-  - Servizi Telematici e Lotterie: manuale-utente-k3-n-rt/servizi-telematici-e-lotterie.md
-  - Messaggi di Segnalazione di Stato: manuale-utente-k3-n-rt/messaggi-di-segnalazione-di-stato.md
+- MANUALE UTENTE K3-N RT: 
+  - Introduzione: index2.md
+  - Introduzione e Descrizione Generale: introduzione-e-descrizione-generale.md
+  - Installazione e Funzionamento Base: installazione-e-funzionamento-base.md
+  - Manutenzione e Specifiche Tecniche: manutenzione-e-specifiche-tecniche.md
+  - Documenti Fiscali e Report: documenti-fiscali-e-report.md
+  - Programmazione e Configurazione Avanzata: programmazione-e-configurazione-avanzata.md
+  - Operazioni di Vendita e Pagamento: operazioni-di-vendita-e-pagamento.md
+  - Servizi Telematici e Lotterie: servizi-telematici-e-lotterie.md
+  - Messaggi di Segnalazione di Stato: messaggi-di-segnalazione-di-stato.md
