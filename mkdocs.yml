@@ -1,0 +1,70 @@
+site_name: K3F_N_RT
+site_url: https://ivanrobuschi-custom.github.io/K3F_n_rt/
+site_author: Custom S.p.A.
+theme:
+  name: material
+  logo: assets/icons/logo.png
+  favicon: assets/icons/favicon.png
+  language: it
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    # - navigation.instant.preview
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.sections
+    - navigation.prune
+    - navigation.indexes
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+
+  palette:
+    - scheme: default
+      primary: custom
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Tema scuro
+    - scheme: slate
+      primary: custom
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Tema chiaro
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - tags
+
+copyright: Copyright Custom S.p.A 2026
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - fenced_code
+  - toc:
+      permalink: true
+nav:
+- Home: index.md
+- MANUALE UTENTE K3-N RT:
+  - Introduzione: manuale-utente-k3-n-rt/index.md
+  - Introduzione e Descrizione Generale: manuale-utente-k3-n-rt/introduzione-e-descrizione-generale.md
+  - Installazione e Funzionamento Base: manuale-utente-k3-n-rt/installazione-e-funzionamento-base.md
+  - Manutenzione e Specifiche Tecniche: manuale-utente-k3-n-rt/manutenzione-e-specifiche-tecniche.md
+  - Documenti Fiscali e Report: manuale-utente-k3-n-rt/documenti-fiscali-e-report.md
+  - Programmazione e Configurazione Avanzata: manuale-utente-k3-n-rt/programmazione-e-configurazione-avanzata.md
+  - Operazioni di Vendita e Pagamento: manuale-utente-k3-n-rt/operazioni-di-vendita-e-pagamento.md
+  - Servizi Telematici e Lotterie: manuale-utente-k3-n-rt/servizi-telematici-e-lotterie.md
+  - Messaggi di Segnalazione di Stato: manuale-utente-k3-n-rt/messaggi-di-segnalazione-di-stato.md
